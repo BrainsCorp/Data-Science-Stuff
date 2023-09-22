@@ -17,11 +17,16 @@ The repository contains projects related to data science, data analysis, data vi
 
 
 ## Projects
-1. **NYC Taxi**
+1. **Housing California** <br>
+   `Data Preprocessing` `PipeLine` `Feature Engineering` `Model Testing`
+  
+   *Description -* <br>
+   > The Housing Dataset includes information about residential areas in California state. It includes 9 feature columns and one continuous label Median_house_price. The aim is to create a Regression Model that accurately predicts house value in a particular area.
+   
+2. **NYC Taxi** <br>
   `data analysis` `visualizations`
 
-  *Description -*\
-  Yellow trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts\
-
+   *Description -* <br>
+   > Yellow trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts\
   [_nyc website](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 
