@@ -30,3 +30,13 @@ The repository contains projects related to data science, data analysis, data vi
    > Yellow trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts\
   [_nyc website](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 
+3. **Twitter Sentimental Analysis** <br>
+   `TwitterAPI` `Text Analysis` `Polarity` `Subjectivity` `Trending Word` `Emoji Handler`
+
+   *Description -* <br>
+   > This project focuses on uncovering concealed sentiments (hate, love, support,
+appreciation) of public tweets on a particular topic.\
+Identified BuzzWords, Analyzed the Proportion of Positive, Negative, and Neutral Views.\
+Added Text and Emoji Transformer which increased model accuracy by 30%.\
+Automate the whole ETL Process through the Pipeline.
+
