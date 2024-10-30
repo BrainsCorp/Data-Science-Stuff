@@ -40,3 +40,13 @@ Identified BuzzWords, Analyzed the Proportion of Positive, Negative, and Neutral
 Added Text and Emoji Transformer which increased model accuracy by 30%.\
 Automate the whole ETL Process through the Pipeline.
 
+4. **Dimensionality Reduction - PCA vs AutoEncoders** <br>
+   `feature engineering`, `PCA`, `AutoEncoders`
+
+   *Description -* <br>
+   > This project aims to a HRX CaseStudy Dataset which contains of 100 features of Human Resource data of a company.\
+the goal is to analysis the dataset for feature engineering to find best k features\
+   > Apply PCA: that uses statistical techniques to reduce dimensions
+   > Apply AutoEncoder Techniques to reduce dimensionality through encoder (bottleneck) part of deep neural network
+   > Apply K-Means to create important feature on both reduced datasets
+
