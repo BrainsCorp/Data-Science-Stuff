@@ -1,0 +1,32 @@
+[build-system]
+requires = ["flit_core >=3.2,<4"]
+build-backend = "flit_core.buildapi"
+
+[project]
+name = "cardiovascular_disease_prediction"
+version = "0.0.1"
+description = "This project aims to develop a robust machine learning model capable of predicting the likelihood of a patient having cardiovascular disease based on the provided dataset."
+authors = [
+  { name = "Vishal" },
+]
+
+readme = "README.md"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    
+]
+requires-python = "==3.13.1"
+
+
+[tool.ruff]
+line-length = 99
+src = ["cardiovascular_disease_prediction"]
+include = ["pyproject.toml", "cardiovascular_disease_prediction/**/*.py"]
+
+[tool.ruff.lint]
+extend-select = ["I"]  # Add import sorting
+
+[tool.ruff.lint.isort]
+known-first-party = ["cardiovascular_disease_prediction"]
+force-sort-within-sections = true
+
