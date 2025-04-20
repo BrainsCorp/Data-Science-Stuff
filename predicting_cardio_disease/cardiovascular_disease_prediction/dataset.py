@@ -1,7 +1,7 @@
 import os
 import requests
 import zipfile
-from config import DATASET_LINK, DATASET_DIR, DATASET_ZIPFILE_NAME, DATASET_NAME
+from .config import DATASET_LINK, DATASET_DIR, DATASET_ZIPFILE_NAME, DATASET_NAME
 
 def download_file():
     '''
