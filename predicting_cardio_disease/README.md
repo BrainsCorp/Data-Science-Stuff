@@ -3,6 +3,15 @@
 <a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
+<a target="_blank" href="https://scikit-learn.org/">
+    <img src="https://img.shields.io/badge/scikit--learn-29ABE2?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn badge" />
+</a>
+<a target="_blank" href="https://github.com/slundberg/shap">
+    <img src="https://img.shields.io/badge/SHAP-1E88E5?style=flat" alt="SHAP badge" />
+</a>
+<a target="_blank" href="https://xgboost.readthedocs.io/en/stable/">
+    <img src="https://img.shields.io/badge/XGBoost-FEA500?style=flat&logo=xgboost&logoColor=white" alt="XGBoost badge" />
+</a>
 
 This project aims to develop a robust machine learning model capable of predicting the likelihood of a patient having cardiovascular disease based on the provided dataset.
 
